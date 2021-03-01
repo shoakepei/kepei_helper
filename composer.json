@@ -1,0 +1,12 @@
+{
+    "name": "39571/kepei_helper",
+    "description": "small tools",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "shaokepei",
+            "email": "shaokepei@foxmail.com"
+        }
+    ],
+    "require": {}
+}
