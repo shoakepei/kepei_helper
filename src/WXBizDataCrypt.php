@@ -63,7 +63,7 @@ class WXBizDataCrypt
 			return \kepei_helper\ErrorCode::$IllegalBuffer;
 		}
 		$data = $result;
-		return \kepei_helper\ErrorCode::$OK;
+		return \kepei_helper\ErrorCode::$OK;1
 	}
 
 }
